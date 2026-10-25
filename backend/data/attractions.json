@@ -1,0 +1,559 @@
+[
+  {
+    "id": "oslo-curated",
+    "destination_id": "oslo",
+    "name": "Oslo waterfront",
+    "category": "coast",
+    "interest_tags": [
+      "culture",
+      "coast"
+    ],
+    "description": "Explore the city waterfront at your own pace.",
+    "source": "manual curated suggestion; visitor details unverified"
+  },
+  {
+    "id": "gothenburg-curated",
+    "destination_id": "gothenburg",
+    "name": "Haga",
+    "category": "neighbourhood",
+    "interest_tags": [
+      "culture",
+      "food"
+    ],
+    "description": "Make time for a walk through Haga.",
+    "source": "manual curated suggestion; visitor details unverified"
+  },
+  {
+    "id": "copenhagen-curated",
+    "destination_id": "copenhagen",
+    "name": "Nyhavn",
+    "category": "waterfront",
+    "interest_tags": [
+      "culture",
+      "coast"
+    ],
+    "description": "Explore the harbour surroundings on foot.",
+    "source": "manual curated suggestion; visitor details unverified"
+  },
+  {
+    "id": "hamburg-curated",
+    "destination_id": "hamburg",
+    "name": "Speicherstadt",
+    "category": "neighbourhood",
+    "interest_tags": [
+      "culture",
+      "history"
+    ],
+    "description": "Explore the historic warehouse district.",
+    "source": "manual curated suggestion; visitor details unverified"
+  },
+  {
+    "id": "berlin-curated",
+    "destination_id": "berlin",
+    "name": "Museum Island",
+    "category": "culture",
+    "interest_tags": [
+      "culture",
+      "history"
+    ],
+    "description": "Consider the museum district when planning your stay.",
+    "source": "manual curated suggestion; visitor details unverified"
+  },
+  {
+    "id": "dresden-curated",
+    "destination_id": "dresden",
+    "name": "Dresden old town",
+    "category": "neighbourhood",
+    "interest_tags": [
+      "culture",
+      "history"
+    ],
+    "description": "Leave time for a walk through the old town.",
+    "source": "manual curated suggestion; visitor details unverified"
+  },
+  {
+    "id": "prague-curated",
+    "destination_id": "prague",
+    "name": "Charles Bridge",
+    "category": "landmark",
+    "interest_tags": [
+      "culture",
+      "history"
+    ],
+    "description": "Include a riverside walk around Charles Bridge.",
+    "source": "manual curated suggestion; visitor details unverified"
+  },
+  {
+    "id": "vienna-curated",
+    "destination_id": "vienna",
+    "name": "Vienna museum quarter",
+    "category": "culture",
+    "interest_tags": [
+      "culture",
+      "history"
+    ],
+    "description": "Build some unhurried museum time into your stay.",
+    "source": "manual curated suggestion; visitor details unverified"
+  },
+  {
+    "id": "munich-curated",
+    "destination_id": "munich",
+    "name": "English Garden",
+    "category": "park",
+    "interest_tags": [
+      "nature",
+      "relaxation"
+    ],
+    "description": "Leave time for a walk in the English Garden.",
+    "source": "manual curated suggestion; visitor details unverified"
+  },
+  {
+    "id": "innsbruck-curated",
+    "destination_id": "innsbruck",
+    "name": "Innsbruck old town",
+    "category": "neighbourhood",
+    "interest_tags": [
+      "culture",
+      "mountains"
+    ],
+    "description": "Explore the old town and mountain views.",
+    "source": "manual curated suggestion; visitor details unverified"
+  },
+  {
+    "id": "venice-curated",
+    "destination_id": "venice",
+    "name": "Venice neighbourhood walks",
+    "category": "neighbourhood",
+    "interest_tags": [
+      "culture",
+      "coast"
+    ],
+    "description": "Leave time to explore on foot between the main landmarks.",
+    "source": "manual curated suggestion; visitor details unverified"
+  },
+  {
+    "id": "bologna-curated",
+    "destination_id": "bologna",
+    "name": "Bologna porticoes",
+    "category": "architecture",
+    "interest_tags": [
+      "culture",
+      "food"
+    ],
+    "description": "Explore the portico-lined streets and local food options.",
+    "source": "manual curated suggestion; visitor details unverified"
+  },
+  {
+    "id": "florence-curated",
+    "destination_id": "florence",
+    "name": "Florence historic centre",
+    "category": "neighbourhood",
+    "interest_tags": [
+      "culture",
+      "history"
+    ],
+    "description": "Set aside time for the historic centre.",
+    "source": "manual curated suggestion; visitor details unverified"
+  },
+  {
+    "id": "rome-curated",
+    "destination_id": "rome",
+    "name": "Roman Forum",
+    "category": "history",
+    "interest_tags": [
+      "culture",
+      "history"
+    ],
+    "description": "Consider the ancient Roman landmarks when planning your days.",
+    "source": "manual curated suggestion; visitor details unverified"
+  },
+  {
+    "id": "naples-curated",
+    "destination_id": "naples",
+    "name": "Naples historic centre",
+    "category": "neighbourhood",
+    "interest_tags": [
+      "culture",
+      "food",
+      "history"
+    ],
+    "description": "Explore the historic centre and local food traditions.",
+    "source": "manual curated suggestion; visitor details unverified"
+  },
+  {
+    "id": "bari-curated",
+    "destination_id": "bari",
+    "name": "Bari Vecchia",
+    "category": "neighbourhood",
+    "interest_tags": [
+      "culture",
+      "food",
+      "coast"
+    ],
+    "description": "Leave time for the old town and waterfront.",
+    "source": "manual curated suggestion; visitor details unverified"
+  },
+  {
+    "id": "lecce-curated",
+    "destination_id": "lecce",
+    "name": "Lecce historic centre",
+    "category": "architecture",
+    "interest_tags": [
+      "culture",
+      "history",
+      "relaxation"
+    ],
+    "description": "Explore the historic centre at a relaxed pace.",
+    "source": "manual curated suggestion; visitor details unverified"
+  },
+  {
+    "id": "stockholm-curated",
+    "destination_id": "stockholm",
+    "name": "Explore Stockholm",
+    "category": "city-walk",
+    "interest_tags": [
+      "culture",
+      "coast"
+    ],
+    "description": "Leave unhurried time to explore Stockholm around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  },
+  {
+    "id": "malmo-curated",
+    "destination_id": "malmo",
+    "name": "Explore Malm\u00f6",
+    "category": "city-walk",
+    "interest_tags": [
+      "culture",
+      "food"
+    ],
+    "description": "Leave unhurried time to explore Malm\u00f6 around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  },
+  {
+    "id": "amsterdam-curated",
+    "destination_id": "amsterdam",
+    "name": "Explore Amsterdam",
+    "category": "city-walk",
+    "interest_tags": [
+      "culture",
+      "food"
+    ],
+    "description": "Leave unhurried time to explore Amsterdam around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  },
+  {
+    "id": "brussels-curated",
+    "destination_id": "brussels",
+    "name": "Explore Brussels",
+    "category": "city-walk",
+    "interest_tags": [
+      "culture",
+      "food"
+    ],
+    "description": "Leave unhurried time to explore Brussels around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  },
+  {
+    "id": "paris-curated",
+    "destination_id": "paris",
+    "name": "Explore Paris",
+    "category": "city-walk",
+    "interest_tags": [
+      "culture",
+      "history",
+      "food"
+    ],
+    "description": "Leave unhurried time to explore Paris around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  },
+  {
+    "id": "strasbourg-curated",
+    "destination_id": "strasbourg",
+    "name": "Explore Strasbourg",
+    "category": "city-walk",
+    "interest_tags": [
+      "culture",
+      "food"
+    ],
+    "description": "Leave unhurried time to explore Strasbourg around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  },
+  {
+    "id": "lyon-curated",
+    "destination_id": "lyon",
+    "name": "Explore Lyon",
+    "category": "city-walk",
+    "interest_tags": [
+      "culture",
+      "food"
+    ],
+    "description": "Leave unhurried time to explore Lyon around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  },
+  {
+    "id": "marseille-curated",
+    "destination_id": "marseille",
+    "name": "Explore Marseille",
+    "category": "city-walk",
+    "interest_tags": [
+      "coast",
+      "food",
+      "relaxation"
+    ],
+    "description": "Leave unhurried time to explore Marseille around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  },
+  {
+    "id": "nice-curated",
+    "destination_id": "nice",
+    "name": "Explore Nice",
+    "category": "city-walk",
+    "interest_tags": [
+      "beaches",
+      "food",
+      "relaxation"
+    ],
+    "description": "Leave unhurried time to explore Nice around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  },
+  {
+    "id": "barcelona-curated",
+    "destination_id": "barcelona",
+    "name": "Explore Barcelona",
+    "category": "city-walk",
+    "interest_tags": [
+      "culture",
+      "food",
+      "beaches"
+    ],
+    "description": "Leave unhurried time to explore Barcelona around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  },
+  {
+    "id": "madrid-curated",
+    "destination_id": "madrid",
+    "name": "Explore Madrid",
+    "category": "city-walk",
+    "interest_tags": [
+      "culture",
+      "food",
+      "history"
+    ],
+    "description": "Leave unhurried time to explore Madrid around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  },
+  {
+    "id": "seville-curated",
+    "destination_id": "seville",
+    "name": "Explore Seville",
+    "category": "city-walk",
+    "interest_tags": [
+      "culture",
+      "food",
+      "relaxation"
+    ],
+    "description": "Leave unhurried time to explore Seville around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  },
+  {
+    "id": "malaga-curated",
+    "destination_id": "malaga",
+    "name": "Explore M\u00e1laga",
+    "category": "city-walk",
+    "interest_tags": [
+      "beaches",
+      "food",
+      "relaxation"
+    ],
+    "description": "Leave unhurried time to explore M\u00e1laga around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  },
+  {
+    "id": "valencia-curated",
+    "destination_id": "valencia",
+    "name": "Explore Valencia",
+    "category": "city-walk",
+    "interest_tags": [
+      "beaches",
+      "culture",
+      "relaxation"
+    ],
+    "description": "Leave unhurried time to explore Valencia around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  },
+  {
+    "id": "milan-curated",
+    "destination_id": "milan",
+    "name": "Explore Milan",
+    "category": "city-walk",
+    "interest_tags": [
+      "culture",
+      "food"
+    ],
+    "description": "Leave unhurried time to explore Milan around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  },
+  {
+    "id": "turin-curated",
+    "destination_id": "turin",
+    "name": "Explore Turin",
+    "category": "city-walk",
+    "interest_tags": [
+      "culture",
+      "food"
+    ],
+    "description": "Leave unhurried time to explore Turin around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  },
+  {
+    "id": "genoa-curated",
+    "destination_id": "genoa",
+    "name": "Explore Genoa",
+    "category": "city-walk",
+    "interest_tags": [
+      "coast",
+      "food",
+      "history"
+    ],
+    "description": "Leave unhurried time to explore Genoa around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  },
+  {
+    "id": "zurich-curated",
+    "destination_id": "zurich",
+    "name": "Explore Zurich",
+    "category": "city-walk",
+    "interest_tags": [
+      "culture",
+      "nature"
+    ],
+    "description": "Leave unhurried time to explore Zurich around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  },
+  {
+    "id": "basel-curated",
+    "destination_id": "basel",
+    "name": "Explore Basel",
+    "category": "city-walk",
+    "interest_tags": [
+      "culture",
+      "history"
+    ],
+    "description": "Leave unhurried time to explore Basel around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  },
+  {
+    "id": "lucerne-curated",
+    "destination_id": "lucerne",
+    "name": "Explore Lucerne",
+    "category": "city-walk",
+    "interest_tags": [
+      "nature",
+      "mountains"
+    ],
+    "description": "Leave unhurried time to explore Lucerne around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  },
+  {
+    "id": "salzburg-curated",
+    "destination_id": "salzburg",
+    "name": "Explore Salzburg",
+    "category": "city-walk",
+    "interest_tags": [
+      "culture",
+      "mountains"
+    ],
+    "description": "Leave unhurried time to explore Salzburg around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  },
+  {
+    "id": "ljubljana-curated",
+    "destination_id": "ljubljana",
+    "name": "Explore Ljubljana",
+    "category": "city-walk",
+    "interest_tags": [
+      "culture",
+      "nature"
+    ],
+    "description": "Leave unhurried time to explore Ljubljana around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  },
+  {
+    "id": "zagreb-curated",
+    "destination_id": "zagreb",
+    "name": "Explore Zagreb",
+    "category": "city-walk",
+    "interest_tags": [
+      "culture",
+      "food"
+    ],
+    "description": "Leave unhurried time to explore Zagreb around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  },
+  {
+    "id": "split-curated",
+    "destination_id": "split",
+    "name": "Explore Split",
+    "category": "city-walk",
+    "interest_tags": [
+      "beaches",
+      "history",
+      "relaxation"
+    ],
+    "description": "Leave unhurried time to explore Split around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  },
+  {
+    "id": "rijeka-curated",
+    "destination_id": "rijeka",
+    "name": "Explore Rijeka",
+    "category": "city-walk",
+    "interest_tags": [
+      "coast",
+      "culture",
+      "relaxation"
+    ],
+    "description": "Leave unhurried time to explore Rijeka around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  },
+  {
+    "id": "budapest-curated",
+    "destination_id": "budapest",
+    "name": "Explore Budapest",
+    "category": "city-walk",
+    "interest_tags": [
+      "culture",
+      "food",
+      "relaxation"
+    ],
+    "description": "Leave unhurried time to explore Budapest around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  },
+  {
+    "id": "thessaloniki-curated",
+    "destination_id": "thessaloniki",
+    "name": "Explore Thessaloniki",
+    "category": "city-walk",
+    "interest_tags": [
+      "culture",
+      "food",
+      "coast"
+    ],
+    "description": "Leave unhurried time to explore Thessaloniki around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  },
+  {
+    "id": "athens-curated",
+    "destination_id": "athens",
+    "name": "Explore Athens",
+    "category": "city-walk",
+    "interest_tags": [
+      "culture",
+      "history",
+      "relaxation"
+    ],
+    "description": "Leave unhurried time to explore Athens around your interests.",
+    "source": "manual curated city suggestion; visitor details unverified"
+  }
+]

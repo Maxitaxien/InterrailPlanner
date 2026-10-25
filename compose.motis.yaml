@@ -1,0 +1,24 @@
+# Add with: docker compose -f compose.yaml -f compose.motis.yaml ...
+# Feed preparation is explicit; nothing downloads on normal app startup.
+services:
+  backend:
+    environment:
+      MOTIS_BASE_URL: http://motis:8080
+      MOTIS_TIMEOUT_SECONDS: ${MOTIS_TIMEOUT_SECONDS:-30}
+      MOTIS_FEED_STATUS_PATH: /motis-work/feeds-status.json
+    volumes:
+      - ./motis/work:/motis-work:ro
+  motis:
+    build: ./motis
+    command: ["server", "--data", "/workspace/data"]
+    volumes:
+      - ./motis/work:/workspace
+    ports:
+      - "127.0.0.1:8080:8080"
+    restart: unless-stopped
+  motis-import:
+    build: ./motis
+    profiles: ["tools"]
+    command: ["import", "--config", "/workspace/config.yml", "--data", "/workspace/data"]
+    volumes:
+      - ./motis/work:/workspace

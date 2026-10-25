@@ -1,0 +1,701 @@
+[
+  {
+    "id": "oslo",
+    "name": "Oslo",
+    "country_code": "NO",
+    "latitude": 59.91,
+    "longitude": 10.75,
+    "category": "major",
+    "interest_tags": [
+      "culture",
+      "nature"
+    ],
+    "suggested_nights": 1,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "gothenburg",
+    "name": "Gothenburg",
+    "country_code": "SE",
+    "latitude": 57.71,
+    "longitude": 11.97,
+    "category": "standard",
+    "interest_tags": [
+      "food",
+      "coast"
+    ],
+    "suggested_nights": 1,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "copenhagen",
+    "name": "Copenhagen",
+    "country_code": "DK",
+    "latitude": 55.68,
+    "longitude": 12.57,
+    "category": "major",
+    "interest_tags": [
+      "culture",
+      "food"
+    ],
+    "suggested_nights": 2,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "hamburg",
+    "name": "Hamburg",
+    "country_code": "DE",
+    "latitude": 53.55,
+    "longitude": 9.99,
+    "category": "major",
+    "interest_tags": [
+      "culture",
+      "food"
+    ],
+    "suggested_nights": 1,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "berlin",
+    "name": "Berlin",
+    "country_code": "DE",
+    "latitude": 52.52,
+    "longitude": 13.4,
+    "category": "major",
+    "interest_tags": [
+      "culture",
+      "history",
+      "nightlife"
+    ],
+    "suggested_nights": 2,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "prague",
+    "name": "Prague",
+    "country_code": "CZ",
+    "latitude": 50.08,
+    "longitude": 14.44,
+    "category": "major",
+    "interest_tags": [
+      "culture",
+      "history",
+      "food"
+    ],
+    "suggested_nights": 2,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "dresden",
+    "name": "Dresden",
+    "country_code": "DE",
+    "latitude": 51.05,
+    "longitude": 13.74,
+    "category": "standard",
+    "interest_tags": [
+      "culture",
+      "history"
+    ],
+    "suggested_nights": 1,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "vienna",
+    "name": "Vienna",
+    "country_code": "AT",
+    "latitude": 48.21,
+    "longitude": 16.37,
+    "category": "major",
+    "interest_tags": [
+      "culture",
+      "food",
+      "history"
+    ],
+    "suggested_nights": 2,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "munich",
+    "name": "Munich",
+    "country_code": "DE",
+    "latitude": 48.14,
+    "longitude": 11.58,
+    "category": "major",
+    "interest_tags": [
+      "culture",
+      "food"
+    ],
+    "suggested_nights": 2,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "innsbruck",
+    "name": "Innsbruck",
+    "country_code": "AT",
+    "latitude": 47.27,
+    "longitude": 11.39,
+    "category": "standard",
+    "interest_tags": [
+      "nature",
+      "mountains"
+    ],
+    "suggested_nights": 1,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "venice",
+    "name": "Venice",
+    "country_code": "IT",
+    "latitude": 45.44,
+    "longitude": 12.32,
+    "category": "major",
+    "interest_tags": [
+      "culture",
+      "food",
+      "coast"
+    ],
+    "suggested_nights": 2,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "bologna",
+    "name": "Bologna",
+    "country_code": "IT",
+    "latitude": 44.49,
+    "longitude": 11.34,
+    "category": "standard",
+    "interest_tags": [
+      "culture",
+      "food"
+    ],
+    "suggested_nights": 1,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "florence",
+    "name": "Florence",
+    "country_code": "IT",
+    "latitude": 43.77,
+    "longitude": 11.26,
+    "category": "major",
+    "interest_tags": [
+      "culture",
+      "history",
+      "food"
+    ],
+    "suggested_nights": 2,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "rome",
+    "name": "Rome",
+    "country_code": "IT",
+    "latitude": 41.9,
+    "longitude": 12.5,
+    "category": "major",
+    "interest_tags": [
+      "culture",
+      "history",
+      "food"
+    ],
+    "suggested_nights": 2,
+    "is_endpoint": false,
+    "airport": "FCO"
+  },
+  {
+    "id": "naples",
+    "name": "Naples",
+    "country_code": "IT",
+    "latitude": 40.85,
+    "longitude": 14.27,
+    "category": "endpoint",
+    "interest_tags": [
+      "food",
+      "coast",
+      "history",
+      "relaxation"
+    ],
+    "suggested_nights": 4,
+    "is_endpoint": true,
+    "airport": "NAP"
+  },
+  {
+    "id": "bari",
+    "name": "Bari",
+    "country_code": "IT",
+    "latitude": 41.12,
+    "longitude": 16.87,
+    "category": "endpoint",
+    "interest_tags": [
+      "beaches",
+      "food",
+      "relaxation"
+    ],
+    "suggested_nights": 4,
+    "is_endpoint": true,
+    "airport": "BRI"
+  },
+  {
+    "id": "lecce",
+    "name": "Lecce",
+    "country_code": "IT",
+    "latitude": 40.35,
+    "longitude": 18.17,
+    "category": "endpoint",
+    "interest_tags": [
+      "culture",
+      "beaches",
+      "relaxation"
+    ],
+    "suggested_nights": 4,
+    "is_endpoint": true,
+    "airport": "BDS"
+  },
+  {
+    "id": "stockholm",
+    "name": "Stockholm",
+    "country_code": "SE",
+    "latitude": 59.33,
+    "longitude": 18.07,
+    "category": "standard",
+    "interest_tags": [
+      "culture",
+      "coast"
+    ],
+    "suggested_nights": 2,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "malmo",
+    "name": "Malm\u00f6",
+    "country_code": "SE",
+    "latitude": 55.61,
+    "longitude": 13.0,
+    "category": "standard",
+    "interest_tags": [
+      "culture",
+      "food"
+    ],
+    "suggested_nights": 2,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "amsterdam",
+    "name": "Amsterdam",
+    "country_code": "NL",
+    "latitude": 52.37,
+    "longitude": 4.9,
+    "category": "standard",
+    "interest_tags": [
+      "culture",
+      "food"
+    ],
+    "suggested_nights": 2,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "brussels",
+    "name": "Brussels",
+    "country_code": "BE",
+    "latitude": 50.85,
+    "longitude": 4.35,
+    "category": "standard",
+    "interest_tags": [
+      "culture",
+      "food"
+    ],
+    "suggested_nights": 2,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "paris",
+    "name": "Paris",
+    "country_code": "FR",
+    "latitude": 48.86,
+    "longitude": 2.35,
+    "category": "standard",
+    "interest_tags": [
+      "culture",
+      "history",
+      "food"
+    ],
+    "suggested_nights": 2,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "strasbourg",
+    "name": "Strasbourg",
+    "country_code": "FR",
+    "latitude": 48.58,
+    "longitude": 7.75,
+    "category": "standard",
+    "interest_tags": [
+      "culture",
+      "food"
+    ],
+    "suggested_nights": 2,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "lyon",
+    "name": "Lyon",
+    "country_code": "FR",
+    "latitude": 45.76,
+    "longitude": 4.84,
+    "category": "standard",
+    "interest_tags": [
+      "culture",
+      "food"
+    ],
+    "suggested_nights": 2,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "marseille",
+    "name": "Marseille",
+    "country_code": "FR",
+    "latitude": 43.3,
+    "longitude": 5.37,
+    "category": "endpoint",
+    "interest_tags": [
+      "coast",
+      "food",
+      "relaxation"
+    ],
+    "suggested_nights": 4,
+    "is_endpoint": true,
+    "airport": "MRS"
+  },
+  {
+    "id": "nice",
+    "name": "Nice",
+    "country_code": "FR",
+    "latitude": 43.7,
+    "longitude": 7.27,
+    "category": "endpoint",
+    "interest_tags": [
+      "beaches",
+      "food",
+      "relaxation"
+    ],
+    "suggested_nights": 4,
+    "is_endpoint": true,
+    "airport": "NCE"
+  },
+  {
+    "id": "barcelona",
+    "name": "Barcelona",
+    "country_code": "ES",
+    "latitude": 41.39,
+    "longitude": 2.17,
+    "category": "endpoint",
+    "interest_tags": [
+      "culture",
+      "food",
+      "beaches"
+    ],
+    "suggested_nights": 4,
+    "is_endpoint": true,
+    "airport": "BCN"
+  },
+  {
+    "id": "madrid",
+    "name": "Madrid",
+    "country_code": "ES",
+    "latitude": 40.42,
+    "longitude": -3.7,
+    "category": "standard",
+    "interest_tags": [
+      "culture",
+      "food",
+      "history"
+    ],
+    "suggested_nights": 2,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "seville",
+    "name": "Seville",
+    "country_code": "ES",
+    "latitude": 37.39,
+    "longitude": -5.98,
+    "category": "endpoint",
+    "interest_tags": [
+      "culture",
+      "food",
+      "relaxation"
+    ],
+    "suggested_nights": 4,
+    "is_endpoint": true,
+    "airport": "SVQ"
+  },
+  {
+    "id": "malaga",
+    "name": "M\u00e1laga",
+    "country_code": "ES",
+    "latitude": 36.72,
+    "longitude": -4.42,
+    "category": "endpoint",
+    "interest_tags": [
+      "beaches",
+      "food",
+      "relaxation"
+    ],
+    "suggested_nights": 4,
+    "is_endpoint": true,
+    "airport": "AGP"
+  },
+  {
+    "id": "valencia",
+    "name": "Valencia",
+    "country_code": "ES",
+    "latitude": 39.47,
+    "longitude": -0.38,
+    "category": "endpoint",
+    "interest_tags": [
+      "beaches",
+      "culture",
+      "relaxation"
+    ],
+    "suggested_nights": 4,
+    "is_endpoint": true,
+    "airport": "VLC"
+  },
+  {
+    "id": "milan",
+    "name": "Milan",
+    "country_code": "IT",
+    "latitude": 45.46,
+    "longitude": 9.19,
+    "category": "standard",
+    "interest_tags": [
+      "culture",
+      "food"
+    ],
+    "suggested_nights": 2,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "turin",
+    "name": "Turin",
+    "country_code": "IT",
+    "latitude": 45.07,
+    "longitude": 7.69,
+    "category": "standard",
+    "interest_tags": [
+      "culture",
+      "food"
+    ],
+    "suggested_nights": 2,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "genoa",
+    "name": "Genoa",
+    "country_code": "IT",
+    "latitude": 44.41,
+    "longitude": 8.93,
+    "category": "standard",
+    "interest_tags": [
+      "coast",
+      "food",
+      "history"
+    ],
+    "suggested_nights": 2,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "zurich",
+    "name": "Zurich",
+    "country_code": "CH",
+    "latitude": 47.38,
+    "longitude": 8.54,
+    "category": "standard",
+    "interest_tags": [
+      "culture",
+      "nature"
+    ],
+    "suggested_nights": 2,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "basel",
+    "name": "Basel",
+    "country_code": "CH",
+    "latitude": 47.56,
+    "longitude": 7.59,
+    "category": "standard",
+    "interest_tags": [
+      "culture",
+      "history"
+    ],
+    "suggested_nights": 2,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "lucerne",
+    "name": "Lucerne",
+    "country_code": "CH",
+    "latitude": 47.05,
+    "longitude": 8.31,
+    "category": "standard",
+    "interest_tags": [
+      "nature",
+      "mountains"
+    ],
+    "suggested_nights": 2,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "salzburg",
+    "name": "Salzburg",
+    "country_code": "AT",
+    "latitude": 47.8,
+    "longitude": 13.05,
+    "category": "standard",
+    "interest_tags": [
+      "culture",
+      "mountains"
+    ],
+    "suggested_nights": 2,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "ljubljana",
+    "name": "Ljubljana",
+    "country_code": "SI",
+    "latitude": 46.06,
+    "longitude": 14.51,
+    "category": "standard",
+    "interest_tags": [
+      "culture",
+      "nature"
+    ],
+    "suggested_nights": 2,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "zagreb",
+    "name": "Zagreb",
+    "country_code": "HR",
+    "latitude": 45.82,
+    "longitude": 15.98,
+    "category": "standard",
+    "interest_tags": [
+      "culture",
+      "food"
+    ],
+    "suggested_nights": 2,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "split",
+    "name": "Split",
+    "country_code": "HR",
+    "latitude": 43.51,
+    "longitude": 16.44,
+    "category": "endpoint",
+    "interest_tags": [
+      "beaches",
+      "history",
+      "relaxation"
+    ],
+    "suggested_nights": 4,
+    "is_endpoint": true,
+    "airport": "SPU"
+  },
+  {
+    "id": "rijeka",
+    "name": "Rijeka",
+    "country_code": "HR",
+    "latitude": 45.33,
+    "longitude": 14.44,
+    "category": "endpoint",
+    "interest_tags": [
+      "coast",
+      "culture",
+      "relaxation"
+    ],
+    "suggested_nights": 4,
+    "is_endpoint": true,
+    "airport": "RJK"
+  },
+  {
+    "id": "budapest",
+    "name": "Budapest",
+    "country_code": "HU",
+    "latitude": 47.5,
+    "longitude": 19.04,
+    "category": "standard",
+    "interest_tags": [
+      "culture",
+      "food",
+      "relaxation"
+    ],
+    "suggested_nights": 2,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "thessaloniki",
+    "name": "Thessaloniki",
+    "country_code": "GR",
+    "latitude": 40.64,
+    "longitude": 22.94,
+    "category": "standard",
+    "interest_tags": [
+      "culture",
+      "food",
+      "coast"
+    ],
+    "suggested_nights": 2,
+    "is_endpoint": false,
+    "airport": null
+  },
+  {
+    "id": "athens",
+    "name": "Athens",
+    "country_code": "GR",
+    "latitude": 37.98,
+    "longitude": 23.73,
+    "category": "endpoint",
+    "interest_tags": [
+      "culture",
+      "history",
+      "relaxation"
+    ],
+    "suggested_nights": 4,
+    "is_endpoint": true,
+    "airport": "ATH"
+  }
+]

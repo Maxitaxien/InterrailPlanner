@@ -1,0 +1,20 @@
+# Required for new city AI. Keep this override on subsequent backend up/build commands.
+services:
+  backend:
+    environment:
+      SEARXNG_BASE_URL: http://searxng:8080
+    depends_on:
+      searxng:
+        condition: service_started
+  searxng:
+    image: searxng/searxng@sha256:3619192d55f19eaec4b01892bdf10f80c67e8592fafd14b26ca504e52229210f
+    environment:
+      SEARXNG_SECRET: ${SEARXNG_SECRET:?Set a random SEARXNG_SECRET in .env before enabling city web research}
+    ports:
+      - "127.0.0.1:8081:8080"
+    volumes:
+      - ./search/settings.yml:/etc/searxng/settings.yml:ro
+      - searxng_data:/var/cache/searxng
+    restart: unless-stopped
+volumes:
+  searxng_data:

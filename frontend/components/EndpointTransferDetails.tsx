@@ -1,0 +1,16 @@
+"use client";
+import { useState } from "react";
+import Modal from "./Modal";
+import { Transfer, duration } from "../lib/connection-types";
+import ConnectionCheck from "./ConnectionCheck";
+export default function EndpointTransferDetails({ transfers }: { transfers: Transfer[] }) {
+  const [open, setOpen] = useState(false);
+  const hasFerry = transfers.some(transfer => transfer.components?.some(part => part.mode === "ferry"));
+  return <div className="endpoint-transfer"><small className="leg-confidence">{hasFerry ? "Ferry research only · sailing and fares unconfirmed" : "Ground transfer research · transport and fares unconfirmed"}</small><button type="button" className="leg-action" onClick={() => setOpen(true)}>{hasFerry ? "Plan ferry & onward transfer" : "Plan onward ground transfer"}</button>
+    <Modal open={open} onClose={() => setOpen(false)} title={hasFerry ? "Your ferry & port connections" : "Your onward ground connection"}>
+      <section className="modal-section"><h3>{hasFerry ? "1. The crossing" : "1. The onward transfer"}</h3><p>Illustrative planning allowances—not confirmed sailings. Check every date and port connection before booking.</p>{transfers.map((transfer, index) => <div key={index}><ul>{(transfer.connection_plan ? transfer.connection_plan.steps.map((step, i) => <li key={i}>{step.label} — {duration(step.estimated_minutes)} estimated</li>) : transfer.components?.map((part, i) => <li key={i}>{part.description || `${part.origin} → ${part.destination} · ${part.mode.replaceAll("_", " ")}`} — {duration(part.estimated_minutes)} estimated</li>))}</ul>{transfer.seasonal && <p className="idea-limitation">Potentially seasonal: verify operation for your dates.</p>}</div>)}</section>
+      {transfers.map((transfer, index) => transfer.connection_plan && <section className="modal-section" key={`plan-${index}`}><h3>Access, check-in & arrival</h3><p>{transfer.connection_plan.notice}</p>{transfer.connection_plan.arrival_notes.map(note => <p key={note}>{note}</p>)}{transfer.connection_plan.ferry_count === 1 && (transfer.id || transfer.connection_id) && <ConnectionCheck key={transfer.id || transfer.connection_id} connectionId={(transfer.id || transfer.connection_id)!} plan={transfer.connection_plan} />}</section>)}
+      <section className="modal-section"><h3>2. Check & book separately</h3><div className="booking-links">{transfers.map((transfer, index) => <div key={index}>{transfer.booking_url && <a href={transfer.booking_url} target="_blank" rel="noopener noreferrer">Check ferry sailings & cabins ↗</a>}{transfer.onward_url && <a href={transfer.onward_url} target="_blank" rel="noopener noreferrer">Research onward transport ↗</a>}{transfer.source_url && <a href={transfer.source_url} target="_blank" rel="noopener noreferrer">Route reference & access information ↗</a>}</div>)}</div></section>
+      <section className="modal-section"><h3>3. Before you commit</h3><p>Not counted as a rail-pass travel day. Ferry discounts, pass-day requirements, supplements, port access and return airport transfers must be verified independently.</p><details><summary>Connection-specific limitations</summary>{transfers.map((transfer, index) => <p key={index}>{transfer.reservation_warning || "Pass coverage and availability are unknown."}</p>)}</details></section>
+    </Modal></div>;
+}

@@ -1,0 +1,13 @@
+{
+  "feeds": [
+    {
+      "id": "atoebb",
+      "name": "OeBB Open Data / planned GTFS timetable",
+      "path": "downloads/austria.zip",
+      "source_url": "https://data.oebb.at/de/datensaetze~soll-fahrplan-gtfs~",
+      "license_url": "https://data.oebb.at/de/nutzungsbedingungen",
+      "attribution": "OeBB Personenverkehr AG, CAT and Montafonerbahn timetable data via OeBB Open Data, CC BY 4.0 and publisher usage conditions. Archive unchanged; rail-calendar and city summaries calculated by this app. No endorsement implied.",
+      "coverage": "Authorized archive obtained after the administrator accepts publisher terms. Domestic Austrian services of the named operators, not all Austrian operators or complete Nightjet/cross-border coverage. Audit the selected timetable year; no passholder availability."
+    }
+  ]
+}

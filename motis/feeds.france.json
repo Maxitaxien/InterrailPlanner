@@ -1,0 +1,14 @@
+{
+  "feeds": [
+    {
+      "id": "frsncf",
+      "name": "SNCF Voyageurs / TGV, Intercites and TER",
+      "url": "https://eu.ftp.opendatasoft.com/sncf/plandata/Export_OpenData_SNCF_GTFS_NewTripId.zip",
+      "source_url": "https://transport.data.gouv.fr/datasets/horaires-sncf",
+      "license_url": "https://doc.transport.data.gouv.fr/le-point-d-acces-national/cadre-juridique/conditions-dutilisation-des-donnees/licence-odbl",
+      "attribution": "SNCF Voyageurs open timetable data, ODbL with the additional conditions linked by the French National Access Point. Downloaded archive unchanged; rail-calendar and city summaries calculated by this app. No endorsement implied.",
+      "coverage": "Published SNCF Voyageurs TGV, Intercites and TER schedules, not every French operator or guaranteed international through coverage. Publisher describes a rolling 151-day horizon; use the audited archive calendar. Regional authority data may differ. No passholder inventory or real-time updates.",
+      "min_download_interval_hours": 24
+    }
+  ]
+}

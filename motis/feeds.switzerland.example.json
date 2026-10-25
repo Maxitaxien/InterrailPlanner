@@ -1,0 +1,13 @@
+{
+  "feeds": [
+    {
+      "id": "chski",
+      "name": "Open Data Mobility Switzerland / SKI national GTFS",
+      "path": "downloads/switzerland.zip",
+      "source_url": "https://opentransportdata.swiss/en/cookbook/timetable-cookbook/gtfs/",
+      "license_url": "https://opentransportdata.swiss/en/terms-of-use/",
+      "attribution": "Timetable data: opentransportdata.swiss / SKI. Downloaded archive unchanged; rail-calendar and nearby-city summaries are analyses by this app. No endorsement implied.",
+      "coverage": "Administrator-selected Swiss national timetable year. Includes non-rail modes; this app searches rail and walking only. Audit service dates and actual cross-border journeys. Not a guarantee of complete foreign operator coverage or passholder availability."
+    }
+  ]
+}

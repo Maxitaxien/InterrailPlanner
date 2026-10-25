@@ -1,0 +1,752 @@
+{
+  "notice": "Coastal final-stay catalog reviewed 17 October 2026. Coordinates represent named localities, not exact stations or all beaches. Access durations are illustrative; no dated transport availability or pass entitlement is verified.",
+  "destinations": [
+    {
+      "id": "igoumenitsa",
+      "name": "Igoumenitsa",
+      "country_code": "GR",
+      "latitude": 39.503,
+      "longitude": 20.267,
+      "category": "coastal",
+      "airport": null,
+      "interest_tags": [
+        "coast",
+        "food",
+        "relaxation"
+      ],
+      "suggested_nights": 4,
+      "is_endpoint": true
+    },
+    {
+      "id": "patras",
+      "name": "Patras",
+      "country_code": "GR",
+      "latitude": 38.246,
+      "longitude": 21.735,
+      "category": "coastal",
+      "airport": "GPA",
+      "interest_tags": [
+        "coast",
+        "culture",
+        "food"
+      ],
+      "suggested_nights": 4,
+      "is_endpoint": true
+    },
+    {
+      "id": "parga",
+      "name": "Parga",
+      "country_code": "GR",
+      "latitude": 39.285,
+      "longitude": 20.401,
+      "category": "coastal",
+      "airport": null,
+      "interest_tags": [
+        "beaches",
+        "food",
+        "history",
+        "relaxation"
+      ],
+      "suggested_nights": 4,
+      "is_endpoint": true
+    },
+    {
+      "id": "sivota",
+      "name": "Sivota · Epirus",
+      "country_code": "GR",
+      "latitude": 39.408,
+      "longitude": 20.242,
+      "category": "coastal",
+      "airport": null,
+      "interest_tags": [
+        "beaches",
+        "nature",
+        "relaxation"
+      ],
+      "suggested_nights": 4,
+      "is_endpoint": true
+    },
+    {
+      "id": "preveza",
+      "name": "Preveza",
+      "country_code": "GR",
+      "latitude": 38.958,
+      "longitude": 20.752,
+      "category": "coastal",
+      "airport": "PVK",
+      "interest_tags": [
+        "coast",
+        "food",
+        "history",
+        "relaxation"
+      ],
+      "suggested_nights": 4,
+      "is_endpoint": true
+    },
+    {
+      "id": "lefkada",
+      "name": "Lefkada · Lefkada Town",
+      "country_code": "GR",
+      "latitude": 38.834,
+      "longitude": 20.708,
+      "category": "island",
+      "airport": null,
+      "interest_tags": [
+        "beaches",
+        "nature",
+        "food",
+        "relaxation"
+      ],
+      "suggested_nights": 4,
+      "is_endpoint": true
+    },
+    {
+      "id": "kefalonia",
+      "name": "Kefalonia · Sami",
+      "country_code": "GR",
+      "latitude": 38.251,
+      "longitude": 20.648,
+      "category": "island",
+      "airport": "EFL",
+      "interest_tags": [
+        "beaches",
+        "nature",
+        "food",
+        "relaxation"
+      ],
+      "suggested_nights": 4,
+      "is_endpoint": true
+    },
+    {
+      "id": "zakynthos",
+      "name": "Zakynthos · Zakynthos Town",
+      "country_code": "GR",
+      "latitude": 37.781,
+      "longitude": 20.899,
+      "category": "island",
+      "airport": "ZTH",
+      "interest_tags": [
+        "beaches",
+        "nature",
+        "food",
+        "relaxation"
+      ],
+      "suggested_nights": 4,
+      "is_endpoint": true
+    },
+    {
+      "id": "monopoli",
+      "name": "Monopoli",
+      "country_code": "IT",
+      "latitude": 40.953,
+      "longitude": 17.301,
+      "category": "coastal",
+      "airport": null,
+      "interest_tags": [
+        "beaches",
+        "food",
+        "history",
+        "relaxation"
+      ],
+      "suggested_nights": 4,
+      "is_endpoint": true
+    },
+    {
+      "id": "polignano",
+      "name": "Polignano a Mare",
+      "country_code": "IT",
+      "latitude": 40.995,
+      "longitude": 17.219,
+      "category": "coastal",
+      "airport": null,
+      "interest_tags": [
+        "beaches",
+        "food",
+        "nature",
+        "relaxation"
+      ],
+      "suggested_nights": 4,
+      "is_endpoint": true
+    },
+    {
+      "id": "tropea",
+      "name": "Tropea",
+      "country_code": "IT",
+      "latitude": 38.677,
+      "longitude": 15.898,
+      "category": "coastal",
+      "airport": null,
+      "interest_tags": [
+        "beaches",
+        "food",
+        "history",
+        "relaxation"
+      ],
+      "suggested_nights": 4,
+      "is_endpoint": true
+    },
+    {
+      "id": "sorrento",
+      "name": "Sorrento",
+      "country_code": "IT",
+      "latitude": 40.627,
+      "longitude": 14.375,
+      "category": "coastal",
+      "airport": null,
+      "interest_tags": [
+        "coast",
+        "food",
+        "nature",
+        "relaxation"
+      ],
+      "suggested_nights": 4,
+      "is_endpoint": true
+    },
+    {
+      "id": "cefalu",
+      "name": "Cefalù",
+      "country_code": "IT",
+      "latitude": 38.039,
+      "longitude": 14.022,
+      "category": "coastal",
+      "airport": null,
+      "interest_tags": [
+        "beaches",
+        "food",
+        "history",
+        "relaxation"
+      ],
+      "suggested_nights": 4,
+      "is_endpoint": true
+    },
+    {
+      "id": "lipari",
+      "name": "Lipari",
+      "country_code": "IT",
+      "latitude": 38.467,
+      "longitude": 14.954,
+      "category": "island",
+      "airport": null,
+      "interest_tags": [
+        "beaches",
+        "nature",
+        "food",
+        "history"
+      ],
+      "suggested_nights": 4,
+      "is_endpoint": true
+    },
+    {
+      "id": "brindisi",
+      "name": "Brindisi",
+      "country_code": "IT",
+      "latitude": 40.638,
+      "longitude": 17.946,
+      "category": "coastal",
+      "airport": "BDS",
+      "interest_tags": [
+        "coast",
+        "food",
+        "history"
+      ],
+      "suggested_nights": 4,
+      "is_endpoint": true
+    },
+    {
+      "id": "ancona",
+      "name": "Ancona",
+      "country_code": "IT",
+      "latitude": 43.616,
+      "longitude": 13.518,
+      "category": "coastal",
+      "airport": "AOI",
+      "interest_tags": [
+        "coast",
+        "culture",
+        "food"
+      ],
+      "suggested_nights": 4,
+      "is_endpoint": true
+    },
+    {
+      "id": "salerno",
+      "name": "Salerno",
+      "country_code": "IT",
+      "latitude": 40.677,
+      "longitude": 14.765,
+      "category": "coastal",
+      "airport": null,
+      "interest_tags": [
+        "coast",
+        "food",
+        "history"
+      ],
+      "suggested_nights": 4,
+      "is_endpoint": true
+    },
+    {
+      "id": "piombino",
+      "name": "Piombino",
+      "country_code": "IT",
+      "latitude": 42.929,
+      "longitude": 10.526,
+      "category": "coastal",
+      "airport": null,
+      "interest_tags": [
+        "coast",
+        "food",
+        "history"
+      ],
+      "suggested_nights": 4,
+      "is_endpoint": true
+    },
+    {
+      "id": "elba",
+      "name": "Elba · Portoferraio",
+      "country_code": "IT",
+      "latitude": 42.813,
+      "longitude": 10.329,
+      "category": "island",
+      "airport": null,
+      "interest_tags": [
+        "beaches",
+        "nature",
+        "food",
+        "relaxation"
+      ],
+      "suggested_nights": 4,
+      "is_endpoint": true
+    },
+    {
+      "id": "paxos",
+      "name": "Paxos · Gaios",
+      "country_code": "GR",
+      "latitude": 39.197,
+      "longitude": 20.185,
+      "category": "island",
+      "airport": null,
+      "interest_tags": [
+        "beaches",
+        "nature",
+        "food",
+        "relaxation"
+      ],
+      "suggested_nights": 4,
+      "is_endpoint": true
+    },
+    {
+      "id": "ithaca",
+      "name": "Ithaca · Vathy",
+      "country_code": "GR",
+      "latitude": 38.365,
+      "longitude": 20.72,
+      "category": "island",
+      "airport": null,
+      "interest_tags": [
+        "beaches",
+        "nature",
+        "history",
+        "relaxation"
+      ],
+      "suggested_nights": 4,
+      "is_endpoint": true
+    },
+    {
+      "id": "meganisi",
+      "name": "Meganisi · Spartochori",
+      "country_code": "GR",
+      "latitude": 38.657,
+      "longitude": 20.759,
+      "category": "island",
+      "airport": null,
+      "interest_tags": [
+        "beaches",
+        "nature",
+        "relaxation"
+      ],
+      "suggested_nights": 4,
+      "is_endpoint": true
+    }
+  ],
+  "attractions": [
+    {
+      "id": "igoumenitsa-coastal",
+      "destination_id": "igoumenitsa",
+      "name": "Waterfront gateway to the Ionian coast",
+      "category": "coast",
+      "interest_tags": [
+        "coast",
+        "food",
+        "relaxation"
+      ],
+      "description": "A practical arrival point from Italy, with a waterfront stay and onward road transfers to smaller coastal towns. Research beaches outside the port centre.",
+      "source": "Manual research lead, visitor details and transport unverified; reference: https://www.superfast.com/en-gb/ports-destinations"
+    },
+    {
+      "id": "patras-coastal",
+      "destination_id": "patras",
+      "name": "Patras waterfront and upper town",
+      "category": "coast",
+      "interest_tags": [
+        "coast",
+        "culture",
+        "food"
+      ],
+      "description": "Combine waterfront walks with the upper town. This is a ferry arrival city; beach stays outside the centre and access to Araxos airport need separate transfers.",
+      "source": "Manual research lead, visitor details and transport unverified; reference: https://www.superfast.com/en-gb/ports-destinations"
+    },
+    {
+      "id": "parga-coastal",
+      "destination_id": "parga",
+      "name": "Parga harbour and Valtos beach",
+      "category": "coast",
+      "interest_tags": [
+        "beaches",
+        "food",
+        "history",
+        "relaxation"
+      ],
+      "description": "Colourful harbour streets, a hilltop castle and nearby Valtos beach make a relaxed coastal base. Arrive by Italy–Igoumenitsa ferry, then a separately arranged road transfer.",
+      "source": "Manual research lead, visitor details and transport unverified; reference: https://www.visitgreece.gr/en/islands/Epiro/Parga"
+    },
+    {
+      "id": "sivota-coastal",
+      "destination_id": "sivota",
+      "name": "Sivota coves and harbour",
+      "category": "coast",
+      "interest_tags": [
+        "beaches",
+        "nature",
+        "relaxation"
+      ],
+      "description": "A small Ionian harbour base for coves and quiet seaside time. This is mainland Sivota near Igoumenitsa, not Syvota on Lefkada; arrange onward road transport from the ferry port.",
+      "source": "Manual research lead, visitor details and transport unverified; reference: https://www.visitgreece.gr/en/islands/Epirus"
+    },
+    {
+      "id": "preveza-coastal",
+      "destination_id": "preveza",
+      "name": "Preveza waterfront and old town",
+      "category": "coast",
+      "interest_tags": [
+        "coast",
+        "food",
+        "history",
+        "relaxation"
+      ],
+      "description": "A walkable old-town and waterfront base near the Ionian coast. Italy ferry access is via Igoumenitsa followed by a road transfer; Aktion airport also requires ground access.",
+      "source": "Manual research lead, visitor details and transport unverified; reference: https://www.visitgreece.gr/"
+    },
+    {
+      "id": "lefkada-coastal",
+      "destination_id": "lefkada",
+      "name": "Lefkada Town and Ionian beaches",
+      "category": "coast",
+      "interest_tags": [
+        "beaches",
+        "nature",
+        "food",
+        "relaxation"
+      ],
+      "description": "Stay in the colourful island capital and research trips to west-coast beaches. Reach the island by road over its mainland bridge after the Italy–Igoumenitsa ferry; beach trips need further local transport.",
+      "source": "Manual research lead, visitor details and transport unverified; reference: https://www.visitgreece.gr/en/islands/ionian/lefkada"
+    },
+    {
+      "id": "kefalonia-coastal",
+      "destination_id": "kefalonia",
+      "name": "Sami waterfront and Kefalonian scenery",
+      "category": "coast",
+      "interest_tags": [
+        "beaches",
+        "nature",
+        "food",
+        "relaxation"
+      ],
+      "description": "A port-town base for island exploring, with Antisamos beach and Melissani cave as research ideas. Arrive via Patras and a separate ferry to Sami; the airport is elsewhere on the island.",
+      "source": "Manual research lead, visitor details and transport unverified; reference: https://www.levanteferries.com/en/routes/"
+    },
+    {
+      "id": "zakynthos-coastal",
+      "destination_id": "zakynthos",
+      "name": "Zakynthos Town and island beaches",
+      "category": "coast",
+      "interest_tags": [
+        "beaches",
+        "nature",
+        "food",
+        "relaxation"
+      ],
+      "description": "Use the harbour town as a base for food and beach excursions. From the Italy ferry at Patras, arrange a road transfer to Kyllini and a separate ferry. Beach access and any boat excursions need current checks.",
+      "source": "Manual research lead, visitor details and transport unverified; reference: https://www.levanteferries.com/en/routes/kyllini-zakynthos/"
+    },
+    {
+      "id": "monopoli-coastal",
+      "destination_id": "monopoli",
+      "name": "Monopoli old harbour and town beaches",
+      "category": "coast",
+      "interest_tags": [
+        "beaches",
+        "food",
+        "history",
+        "relaxation"
+      ],
+      "description": "Whitewashed old-town lanes and a working harbour beside small town beaches. Research regional trains from Bari and onward local access to beaches outside the centre.",
+      "source": "Manual research lead, visitor details and transport unverified; reference: https://www.italia.it/en/puglia"
+    },
+    {
+      "id": "polignano-coastal",
+      "destination_id": "polignano",
+      "name": "Polignano cliff walks and Lama Monachile",
+      "category": "coast",
+      "interest_tags": [
+        "beaches",
+        "food",
+        "nature",
+        "relaxation"
+      ],
+      "description": "A compact clifftop old town with sea views and the pebble cove of Lama Monachile. Research regional trains from Bari; the central cove can be busy and beach access involves steps.",
+      "source": "Manual research lead, visitor details and transport unverified; reference: https://www.italia.it/en/puglia"
+    },
+    {
+      "id": "tropea-coastal",
+      "destination_id": "tropea",
+      "name": "Tropea old town and beach",
+      "category": "coast",
+      "interest_tags": [
+        "beaches",
+        "food",
+        "history",
+        "relaxation"
+      ],
+      "description": "A clifftop Calabrian old town above beaches and Santa Maria dell’Isola. The illustrative rail corridor from Naples can require changes; station-to-stay access and beach stairs need checking.",
+      "source": "Manual research lead, visitor details and transport unverified; reference: https://www.italia.it/it/calabria/costa-degli-dei"
+    },
+    {
+      "id": "sorrento-coastal",
+      "destination_id": "sorrento",
+      "name": "Sorrento lanes and Marina Grande",
+      "category": "coast",
+      "interest_tags": [
+        "coast",
+        "food",
+        "nature",
+        "relaxation"
+      ],
+      "description": "A coastal base for waterfront meals and exploring the peninsula. Research EAV trains from Naples separately, including pass acceptance; Sorrento is mainly a cliff-and-marina stay rather than a broad sandy-beach resort.",
+      "source": "Manual research lead, visitor details and transport unverified; reference: https://www.eavsrl.it/"
+    },
+    {
+      "id": "cefalu-coastal",
+      "destination_id": "cefalu",
+      "name": "Cefalù beach and Norman cathedral",
+      "category": "coast",
+      "interest_tags": [
+        "beaches",
+        "food",
+        "history",
+        "relaxation"
+      ],
+      "description": "A beach beside a historic Sicilian town, with its cathedral and La Rocca as ideas to explore. The modeled route uses the Naples–Palermo ferry, then a separately checked regional train.",
+      "source": "Manual research lead, visitor details and transport unverified; reference: https://www.trenitalia.com/en/connections/cefalu-line.html"
+    },
+    {
+      "id": "lipari-coastal",
+      "destination_id": "lipari",
+      "name": "Lipari harbour and Aeolian island stay",
+      "category": "coast",
+      "interest_tags": [
+        "beaches",
+        "nature",
+        "food",
+        "history"
+      ],
+      "description": "A harbour-town base for volcanic scenery and island exploration. Research the Siremar sailing from Naples, including intermediate island calls, operating days and cabin availability.",
+      "source": "Manual research lead, visitor details and transport unverified; reference: https://www.carontetourist.it/it/isole-eolie"
+    },
+    {
+      "id": "brindisi-coastal",
+      "destination_id": "brindisi",
+      "name": "Brindisi waterfront and a ferry gateway to Greece",
+      "category": "coast",
+      "interest_tags": [
+        "coast",
+        "food",
+        "history"
+      ],
+      "description": "A compact Puglian waterfront base with rail access and Grimaldi ferries to Igoumenitsa; Corfu calls are seasonal. The international ferry terminal is Costa Morena, not the old-town waterfront. Research the separate station–port bus/road transfer and ticket check-in requirements.",
+      "source": "Manual research lead; transport/visitor details unverified. Reference: https://www.trenitalia.com/it/regionale/collegamenti-regionale/brindisi-air-port-link.html"
+    },
+    {
+      "id": "ancona-coastal",
+      "destination_id": "ancona",
+      "name": "Ancona harbour and the Conero coast",
+      "category": "coast",
+      "interest_tags": [
+        "coast",
+        "culture",
+        "food"
+      ],
+      "description": "An Adriatic rail-and-ferry gateway for Greece, with a historic harbour city and the Conero coast as an excursion idea. Beaches outside the centre need local transport; the railway station, check-in office and boarding berth are separate points.",
+      "source": "Manual research lead; transport/visitor details unverified. Reference: https://www.grimaldi-lines.com/en/route/ancona-igoumenitsa/"
+    },
+    {
+      "id": "salerno-coastal",
+      "destination_id": "salerno",
+      "name": "Salerno old town and waterfront",
+      "category": "coast",
+      "interest_tags": [
+        "coast",
+        "food",
+        "history"
+      ],
+      "description": "A coastal rail base south of Naples, with an old town and promenade. Research the separate Grimaldi crossing to Palermo. Match the assigned commercial-port terminal to your booking rather than assuming departure from the closest waterfront pier.",
+      "source": "Manual research lead; transport/visitor details unverified. Reference: https://www.grimaldi-lines.com/en/route/salerno-palermo/"
+    },
+    {
+      "id": "piombino-coastal",
+      "destination_id": "piombino",
+      "name": "Piombino and the crossing to Elba",
+      "category": "coast",
+      "interest_tags": [
+        "coast",
+        "food",
+        "history"
+      ],
+      "description": "A small Tuscan port with access toward Elba. Research trains to Piombino Marittima and any train+bus replacement or final local connection; do not assume every train reaches the quay. Portoferraio on Elba is a separate final-stay option.",
+      "source": "Manual research lead; transport/visitor details unverified. Reference: https://www.trenitalia.com/it/regionale/collegamenti-regionale/elba-link.html"
+    },
+    {
+      "id": "elba-coastal",
+      "destination_id": "elba",
+      "name": "Portoferraio harbour and Elba beaches",
+      "category": "coast",
+      "interest_tags": [
+        "beaches",
+        "nature",
+        "food",
+        "relaxation"
+      ],
+      "description": "A historic harbour base for Elba, reached on the short ferry corridor from Piombino after separately checked rail/port access. Research local transport to beaches and departure-day access back to a mainland airport.",
+      "source": "Manual research lead; transport/visitor details unverified. Reference: https://www.mobylines.com/routes/ferries-elba/piombino-portoferraio-piombino/"
+    },
+    {
+      "id": "paxos-coastal",
+      "destination_id": "paxos",
+      "name": "Gaios harbour and olive-covered Paxos",
+      "category": "coast",
+      "interest_tags": [
+        "beaches",
+        "nature",
+        "food",
+        "relaxation"
+      ],
+      "description": "A smaller Ionian island stay reached on a separately booked ferry from Corfu. Research the exact Corfu departure terminal and seasonal frequency. Antipaxos can be a separate day-boat research idea; its excursion boats are not modeled as guaranteed transport or an overnight endpoint.",
+      "source": "Manual research lead; transport/visitor details unverified. Reference: https://kerkyralines.com/route/kerkyra-paxoi/"
+    },
+    {
+      "id": "ithaca-coastal",
+      "destination_id": "ithaca",
+      "name": "Vathy harbour and Ithacan coves",
+      "category": "coast",
+      "interest_tags": [
+        "beaches",
+        "nature",
+        "history",
+        "relaxation"
+      ],
+      "description": "A sheltered harbour-town stay on Ithaca. The modeled route uses the Patras–Sami–Pisaetos service, with Sami an intermediate port call, then a separate road transfer from Pisaetos to Vathy. No ferry is assumed to land in Vathy itself.",
+      "source": "Manual research lead; transport/visitor details unverified. Reference: https://www.levanteferries.com/en/routes/patra-sami-ithaki/"
+    },
+    {
+      "id": "meganisi-coastal",
+      "destination_id": "meganisi",
+      "name": "Spartochori village and Meganisi bays",
+      "category": "coast",
+      "interest_tags": [
+        "beaches",
+        "nature",
+        "relaxation"
+      ],
+      "description": "A small Ionian island stay. Arrive from Italy via Igoumenitsa and road access to Lefkada, continue to Nydri for the West Ferry crossing to Spilia, then arrange access up to Spartochori. This has several separate transfers and is not a direct sailing from Italy.",
+      "source": "Manual research lead; transport/visitor details unverified. Reference: https://westferry.gr/"
+    }
+  ],
+  "rail_corridors": [
+    {
+      "origin_id": "bari",
+      "destination_id": "monopoli",
+      "estimated_minutes": 45,
+      "source": "https://www.trenitalia.com/it/regionale/puglia.html",
+      "reservation_warning": "Regional rail planning allowance; verify dated stops, station access and Interrail acceptance."
+    },
+    {
+      "origin_id": "bari",
+      "destination_id": "polignano",
+      "estimated_minutes": 35,
+      "source": "https://www.trenitalia.com/it/regionale/puglia.html",
+      "reservation_warning": "Regional rail planning allowance; verify dated stops and station access."
+    },
+    {
+      "origin_id": "naples",
+      "destination_id": "tropea",
+      "estimated_minutes": 420,
+      "source": "https://www.trenitalia.com/it/regionale/calabria.html",
+      "reservation_warning": "Illustrative corridor with changes, not a direct train; verify dated connections and pass acceptance."
+    },
+    {
+      "origin_id": "naples",
+      "destination_id": "sorrento",
+      "estimated_minutes": 90,
+      "source": "https://www.eavsrl.it/",
+      "reservation_warning": "EAV local railway, not assumed included in Interrail. Check separate fares, access and operating changes."
+    },
+    {
+      "origin_id": "sicily",
+      "destination_id": "cefalu",
+      "estimated_minutes": 70,
+      "source": "https://www.trenitalia.com/en/connections/cefalu-line.html",
+      "reservation_warning": "Palermo port-to-station transfer is separate. Verify regional trains and pass acceptance; no through Naples–Cefalù train is implied."
+    },
+    {
+      "origin_id": "bari",
+      "destination_id": "brindisi",
+      "estimated_minutes": 90,
+      "source": "https://www.trenitalia.com/it/regionale/collegamenti-regionale/brindisi-air-port-link.html",
+      "reservation_warning": "Illustrative rail corridor; verify dated trains. Costa Morena port access and bus fares are separate."
+    },
+    {
+      "origin_id": "brindisi",
+      "destination_id": "lecce",
+      "estimated_minutes": 30,
+      "source": "https://www.trenitalia.com/it/regionale/puglia.html",
+      "reservation_warning": "Illustrative regional rail corridor; verify dated services and pass acceptance."
+    },
+    {
+      "origin_id": "bologna",
+      "destination_id": "ancona",
+      "estimated_minutes": 150,
+      "source": "https://www.trenitalia.com/it/regionale/marche.html",
+      "reservation_warning": "Illustrative Adriatic rail corridor; check dated services, then transfer separately to the assigned ferry check-in office and terminal."
+    },
+    {
+      "origin_id": "ancona",
+      "destination_id": "bari",
+      "estimated_minutes": 300,
+      "source": "https://www.trenitalia.com/it.html",
+      "reservation_warning": "Illustrative Adriatic rail corridor, not a promised direct train or connection to a ferry."
+    },
+    {
+      "origin_id": "naples",
+      "destination_id": "salerno",
+      "estimated_minutes": 60,
+      "source": "https://www.trenitalia.com/it/regionale/campania.html",
+      "reservation_warning": "Illustrative rail corridor. The assigned Palermo ferry terminal may be far from the station; check the port transfer separately."
+    },
+    {
+      "origin_id": "florence",
+      "destination_id": "piombino",
+      "estimated_minutes": 210,
+      "source": "https://www.trenitalia.com/it/regionale/collegamenti-regionale/elba-link.html",
+      "reservation_warning": "Illustrative rail approach via changes to the Piombino area. Check the exact final station and services to Piombino Marittima; any bus or local road transfer to the port is separate and not assumed rail-pass included."
+    }
+  ]
+}

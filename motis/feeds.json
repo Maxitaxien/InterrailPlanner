@@ -1,0 +1,46 @@
+{
+  "feeds": [
+    {
+      "id": "defv",
+      "name": "GTFS.de / Long Distance Rail Germany (DELFI source)",
+      "url": "https://download.gtfs.de/germany/fv_free/latest.zip",
+      "source_url": "https://www.gtfs.de/en/feeds/de_fv/",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "GTFS.de, based on DELFI timetable data, CC BY 4.0. Imported without modifying the downloaded archive.",
+      "coverage": "German long-distance rail and included cross-border services only; not complete European coverage. Free feed has about 30 days of schedules."
+    },
+    {
+      "id": "novy",
+      "name": "Entur / Vy Rail",
+      "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_vyg-aggregated-gtfs.zip",
+      "source_url": "https://developer.entur.no/open-data/timetable",
+      "license_url": "https://data.norge.no/nlod/en/2.0",
+      "attribution": "Contains data under NLOD distributed by Entur AS. Downloaded archive unchanged; city coverage summaries calculated by this app. No endorsement implied.",
+      "coverage": "Vy Rail's Norwegian export, including cross-border services present in that export. Not all Swedish or Norwegian operators; replacement buses are excluded by the rail-only journey search.",
+      "headers": {"ET-Client-Name": "interrailhelper-timetablepreparation"},
+      "min_download_interval_hours": 24
+    },
+    {
+      "id": "nosj",
+      "name": "Entur / SJ Nord",
+      "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_sjn-aggregated-gtfs.zip",
+      "source_url": "https://developer.entur.no/open-data/timetable",
+      "license_url": "https://data.norge.no/nlod/en/2.0",
+      "attribution": "Contains data under NLOD distributed by Entur AS. Downloaded archive unchanged; city coverage summaries calculated by this app. No endorsement implied.",
+      "coverage": "SJ Nord's Norwegian export, not SJ Sweden's complete network. Included operators and calendar dates depend on the published snapshot.",
+      "headers": {"ET-Client-Name": "interrailhelper-timetablepreparation"},
+      "min_download_interval_hours": 24
+    },
+    {
+      "id": "nogo",
+      "name": "Entur / Go-Ahead Nordic",
+      "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_goa-aggregated-gtfs.zip",
+      "source_url": "https://developer.entur.no/open-data/timetable",
+      "license_url": "https://data.norge.no/nlod/en/2.0",
+      "attribution": "Contains data under NLOD distributed by Entur AS. Downloaded archive unchanged; city coverage summaries calculated by this app. No endorsement implied.",
+      "coverage": "Go-Ahead Nordic's Norwegian export. This is an operator subset, not complete national coverage or passholder inventory.",
+      "headers": {"ET-Client-Name": "interrailhelper-timetablepreparation"},
+      "min_download_interval_hours": 24
+    }
+  ]
+}

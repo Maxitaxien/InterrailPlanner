@@ -1,0 +1,19 @@
+use_default_settings:
+  engines:
+    keep_only:
+      - duckduckgo
+      - wikipedia
+server:
+  # The image overrides this with SEARXNG_SECRET from Compose, never a committed key.
+  secret_key: "ultrasecretkey"
+  limiter: false
+  image_proxy: false
+  public_instance: false
+search:
+  formats:
+    - html
+    - json
+  safe_search: 1
+  default_lang: en
+outgoing:
+  request_timeout: 8.0

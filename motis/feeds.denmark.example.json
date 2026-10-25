@@ -1,0 +1,13 @@
+{
+  "feeds": [
+    {
+      "id": "dkrejseplan",
+      "name": "Rejseplan Labs / Danish GTFS Schedule",
+      "path": "downloads/denmark.zip",
+      "source_url": "https://labs.rejseplan.dk/hc/da/articles/21639730766877-Om-GTFS-Schedule-Static",
+      "license_url": "https://datavejviser-indtastning.digst.govcloud.dk/dataset/rejseplanen-gtfs",
+      "attribution": "Rejseplanen GTFS timetable data, CC BY 4.0 as listed by the Danish national data catalogue, subject also to the administrator's approved Labs access terms. Archive unchanged; rail-calendar and city summaries calculated by this app. No endorsement implied.",
+      "coverage": "Authorized Danish national GTFS Schedule archive obtained through Rejseplan Labs. Rail and other transit modes; this app searches rail and walking only. Do not infer complete Copenhagen-Hamburg or Swedish through coverage from national coverage. No passholder inventory."
+    }
+  ]
+}

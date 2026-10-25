@@ -1,0 +1,13 @@
+{
+  "feeds": [
+    {
+      "id": "sesverige",
+      "name": "Trafiklab / Samtrafiken GTFS Sverige 2",
+      "path": "downloads/sweden.zip",
+      "source_url": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-sverige-2/",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "GTFS Sverige 2 from Samtrafiken / Trafiklab, CC0 1.0. Archive unchanged; city coverage summaries calculated by this app. No endorsement implied.",
+      "coverage": "Swedish national timetable export downloaded using the administrator's authorized key. Calendar and cross-border connectivity must be audited; not Interrail inventory or a guarantee of international through journeys."
+    }
+  ]
+}

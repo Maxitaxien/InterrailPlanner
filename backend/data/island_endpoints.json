@@ -1,0 +1,19 @@
+[
+  {"id":"corfu","name":"Corfu","country_code":"GR","latitude":39.625,"longitude":19.921,"airport":"CFU","interest_tags":["beaches","nature","culture","relaxation"]},
+  {"id":"naxos","name":"Naxos","country_code":"GR","latitude":37.105,"longitude":25.376,"airport":"JNX","interest_tags":["beaches","food","history","relaxation"]},
+  {"id":"paros","name":"Paros","country_code":"GR","latitude":37.085,"longitude":25.149,"airport":"PAS","interest_tags":["beaches","food","relaxation"]},
+  {"id":"santorini","name":"Santorini","country_code":"GR","latitude":36.394,"longitude":25.429,"airport":"JTR","interest_tags":["nature","food","relaxation"]},
+  {"id":"crete","name":"Crete · Heraklion","country_code":"GR","latitude":35.344,"longitude":25.145,"airport":"HER","interest_tags":["beaches","food","history","nature"]},
+  {"id":"syros","name":"Syros","country_code":"GR","latitude":37.444,"longitude":24.943,"airport":"JSY","interest_tags":["culture","food","beaches","relaxation"]},
+  {"id":"milos","name":"Milos","country_code":"GR","latitude":36.726,"longitude":24.446,"airport":"MLO","interest_tags":["nature","beaches","relaxation"]},
+  {"id":"sicily","name":"Sicily · Palermo","country_code":"IT","latitude":38.126,"longitude":13.363,"airport":"PMO","interest_tags":["culture","food","history","beaches"]},
+  {"id":"sardinia","name":"Sardinia · Porto Torres","country_code":"IT","latitude":40.837,"longitude":8.401,"airport":null,"interest_tags":["beaches","nature","food","relaxation"]},
+  {"id":"capri","name":"Capri","country_code":"IT","latitude":40.557,"longitude":14.241,"airport":null,"interest_tags":["nature","beaches","relaxation"]},
+  {"id":"ischia","name":"Ischia","country_code":"IT","latitude":40.744,"longitude":13.947,"airport":null,"interest_tags":["nature","food","beaches","relaxation"]},
+  {"id":"procida","name":"Procida","country_code":"IT","latitude":40.765,"longitude":14.027,"airport":null,"interest_tags":["culture","food","beaches","relaxation"]},
+  {"id":"corsica","name":"Corsica · Bastia","country_code":"FR","latitude":42.703,"longitude":9.45,"airport":"BIA","interest_tags":["nature","beaches","food","relaxation"]},
+  {"id":"hvar","name":"Hvar","country_code":"HR","latitude":43.171,"longitude":16.443,"airport":null,"interest_tags":["beaches","food","history","relaxation"]},
+  {"id":"vis","name":"Vis","country_code":"HR","latitude":43.061,"longitude":16.185,"airport":null,"interest_tags":["beaches","nature","relaxation"]},
+  {"id":"brac","name":"Brač · Supetar","country_code":"HR","latitude":43.385,"longitude":16.554,"airport":"BWK","interest_tags":["beaches","nature","relaxation"]},
+  {"id":"korcula","name":"Korčula · Vela Luka","country_code":"HR","latitude":42.96,"longitude":16.711,"airport":null,"interest_tags":["culture","food","beaches","relaxation"]}
+]
